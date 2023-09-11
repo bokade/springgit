@@ -16,7 +16,9 @@ git push
 2. 2. we need to have github account
 3. 3. github account setup in intellij.
 
-ok added fetch + merge
+git pull
 
-ok added pull 123
+git branches
+
+adding new features
 
