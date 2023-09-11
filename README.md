@@ -1,8 +1,10 @@
 This is Git learning using IntelliJ idea
 allcoming ok
+
 first step: 
-git init - creat git repo(.git folder)
-unversioned project to versioned project
+git init
+1.creat git repo(.git folder)
+2.unversioned project to versioned project
 
 git commit
 1. meaningful state -> versioned copy of this state -> 1.0
