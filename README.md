@@ -18,5 +18,5 @@ git push
 
 ok added fetch + merge
 
-ok added pull 123
+ok added pull 1234
 
