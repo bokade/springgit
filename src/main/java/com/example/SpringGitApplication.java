@@ -11,7 +11,7 @@ public class SpringGitApplication
 	{
 
 		SpringApplication.run(SpringGitApplication.class, args);
-		System.out.println("Learning Git Hub with Intellij Idea");
+		System.out.println("  Learning Git Hub with Intellij Idea");
 
 	}
 
